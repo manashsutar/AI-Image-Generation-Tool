@@ -1,2 +1,3 @@
-# AI-Image-Generation-Tool
-Generating 3d Model images using OpenAI 
+# AI-Image Generating ChatBot
+Generates images using OpenAI Api Key
+Django Python
